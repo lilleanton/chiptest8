@@ -1,7 +1,7 @@
 # chiptest8
 Chip-8 Interpreter in written in C++, UI powered by SDL2.0.
 
-Compiled with `clang++ -stdlib=libc++ -std=c++0x chip8.cpp -o chip8 -I include -L lib -l SDL2-2.0.0`
+Compiled with `clang++ -stdlib=libc++ -std=c++0x main.cpp chip8.cpp -o chip8 -I include -L lib -l SDL2-2.0.0`
 
 Enjoy!
 
